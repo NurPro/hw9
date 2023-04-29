@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io//hw9/static/css/main.d2d77c5b.css",
+    "main.js": "/github.io//hw9/static/js/main.2b4c82bb.js",
+    "index.html": "/github.io//hw9/index.html",
+    "main.d2d77c5b.css.map": "/github.io//hw9/static/css/main.d2d77c5b.css.map",
+    "main.2b4c82bb.js.map": "/github.io//hw9/static/js/main.2b4c82bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2d77c5b.css",
+    "static/js/main.2b4c82bb.js"
+  ]
+}
